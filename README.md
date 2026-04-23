@@ -61,7 +61,7 @@ A comprehensive hackathon management dashboard with project submissions, real-ti
 
 1. **Clone the repository** (or navigate to project directory):
    ```bash
-   cd assssssss-master
+   cd hackhub
    ```
 
 2. **Install dependencies**:
@@ -112,7 +112,7 @@ npm run lint
 ## Project Structure
 
 ```
-assssssss-master/
+hackhub/
 ├── src/
 │   ├── App.tsx                 # Main application component
 │   ├── main.tsx                # Entry point
@@ -236,12 +236,5 @@ This project is private and proprietary.
 
 ---
 
-## View in AI Studio
 
-https://ai.studio/apps/f8f97683-0e25-4541-b37c-d4b412f47bff
 
----
-
-<div align="center">
-  <sub>Built with React, TypeScript, and Gemini AI</sub>
-</div>
